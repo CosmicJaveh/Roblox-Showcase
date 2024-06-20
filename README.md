@@ -8,7 +8,7 @@ Welcome to my Roblox Showcase website! This site features information about my R
 
 ## Files in this Repository
 
-- **[index.html](index.html)**: Main page of the website.
+- **[iindex.html](iindex.html)**: Main page of the website.
 - **[styles.css](styles.css)**: CSS file for styling the website.
 - **[script.js](script.js)**: JavaScript file for interactive features.
 
