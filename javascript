@@ -7,5 +7,5 @@ function openRobloxProfile(username) {
 
 // Example usage in your HTML
 /*
-<li><a href="#" onclick="openRobloxProfile('YourRobloxUsername')">Your Roblox Username</a></li>
+<li><a href="#" onclick="openRobloxProfile('kingofrobloxxxians')">kingofrobloxxxians</a></li>
 */
