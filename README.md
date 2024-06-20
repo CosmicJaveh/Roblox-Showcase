@@ -24,7 +24,7 @@ This project is a static website built to display information about my Roblox ac
 
 ## Demo
 
-You can view a live demo of the website at [https://yourusername.github.io/roblox-showcase](https://yourusername.github.io/roblox-showcase).
+You can view a live demo of the website at [https://CosmicJaveh.github.io/roblox-showcase](https://CosmicJaveh.github.io/roblox-showcase).
 
 ![Demo](demo.png)
 
